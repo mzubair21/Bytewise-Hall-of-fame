@@ -1,6 +1,6 @@
 # Bytewise - Hall of Fame
 
-This project is live with [Netlify Live Preview]().
+This project is live with [Netlify Live Preview](https://celebrated-caramel-6cd8aa.netlify.app).
 
 ## Bytewise Real OGs
 
