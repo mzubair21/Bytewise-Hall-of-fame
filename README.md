@@ -2,7 +2,7 @@
 
 This project is live with [Netlify Live Preview](https://celebrated-caramel-6cd8aa.netlify.app).
 
-![Demo](https://im5.ezgif.com/tmp/ezgif-5-2653748e17.gif)
+![Demo](https://raw.githubusercontent.com/mzubair21/Bytewise-Hall-of-fame/master/Intro.gif)
 
 ## Bytewise Real OGs
 
