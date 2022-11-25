@@ -2,7 +2,7 @@
 
 This project is live with [Netlify Live Preview](https://celebrated-caramel-6cd8aa.netlify.app).
 
-![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-2653748e17.gif)
+![Demo](https://im5.ezgif.com/tmp/ezgif-5-2653748e17.gif)
 
 ## Bytewise Real OGs
 
