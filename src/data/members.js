@@ -1,21 +1,21 @@
 const imgPath = "img/";
 const members = [
   {
-    name: "Bytewise",
-    img: `${imgPath}/zubi.jpg`,
+    name: "Bytewise OGs",
+    img: `${imgPath}/byte.png`,
     role: "Role",
     email: "Email",
   },
   {
     name: "Muhammad Zubair",
     img: imgPath + "zubi2.jfif",
-    role: "Web Developer",
+    role: "Frontend Developer",
     email: "mzubair21@outlook.com",
   },
   {
     name: "Muhammad Abdullah",
     img: imgPath + "abd.jpg",
-    role: "Web Developer",
+    role: "Data Engineer",
     email: "abd@gmail.com",
   },
 ];

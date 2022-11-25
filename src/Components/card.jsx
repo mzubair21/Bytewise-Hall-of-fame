@@ -6,7 +6,7 @@ const Card = (props) => {
       onClick={() => handleClick(props)}
     >
       <img
-        className="shrink-0 object-cover rounded-full w-32"
+        className="bg-white/90 shrink-0 object-center object-contain ring-2 ring-white rounded-full w-32 h-32"
         src={props.img}
         alt={props.name + "image"}
       ></img>
